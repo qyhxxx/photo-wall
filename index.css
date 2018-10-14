@@ -1,5 +1,11 @@
 body {
+    background-color: black;
     background-size: 100%;
+}
+
+.title {
+    text-align: center;
+    color: white;
 }
 
 .content {
@@ -14,11 +20,10 @@ body {
 }
 
 .img {
-    width: 320px;
-    height: 180px;
+    width: 384px;
+    height: 216px;
     margin: 25px;
     padding: 10px;
-    border: 4px dashed red;
     cursor: pointer;
 }
 
