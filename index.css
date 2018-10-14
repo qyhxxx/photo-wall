@@ -14,11 +14,6 @@ body {
     align-items: center;
 }
 
-.row {
-    display: flex;
-    align-items: center;
-}
-
 .img {
     width: 384px;
     height: 216px;
@@ -70,9 +65,9 @@ body {
 }
 
 #modalImg{
-    -webkit-animation: first 1s;
-    -o-animation: first 1s;
-    animation: first 1s;
+    -webkit-animation: first 0.5s;
+    -o-animation: first 0.5s;
+    animation: first 0.5s;
 }
 
 @keyframes first{
